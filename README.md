@@ -1,8 +1,13 @@
+## テックブログのエディタ検証＋学習用に Notion ブログを作成しました。
+
+- UI フレームワークは Mantine 使ってます。
+- .env.local に環境変数をセットするとローカルでも動くので使ってみてください 👍
+
 This is a [Next.js](https://nextjs.org/) blog using [Notions Public API](https://developers.notion.com).
 
-__Demo:__ [https://notion-blog-nextjs-coral.vercel.app](https://notion-blog-nextjs-coral.vercel.app)
+**Demo:** [https://notion-blog-nextjs-coral.vercel.app](https://notion-blog-nextjs-coral.vercel.app)
 
-__How-it-works/Documentation:__ [https://samuelkraft.com/blog/building-a-notion-blog-with-public-api](https://samuelkraft.com/blog/building-a-notion-blog-with-public-api)
+**How-it-works/Documentation:** [https://samuelkraft.com/blog/building-a-notion-blog-with-public-api](https://samuelkraft.com/blog/building-a-notion-blog-with-public-api)
 
 ## Getting Started
 
